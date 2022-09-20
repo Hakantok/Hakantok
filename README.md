@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakantok&show_icons=true&locale=en&layout=compact" alt="hakantok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakantok&show_icons=true&locale=en" alt="hakantok" /></p>
+<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=hakantok&show_icons=true&locale=en" alt="hakantok" /></p>
 

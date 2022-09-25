@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">Computer Engineer</h3>
+<style type="text/css">
+  h1 {color: blue;}
+</style>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 

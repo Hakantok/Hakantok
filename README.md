@@ -4,9 +4,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Front-End**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **hakanntok6@gmail.com**
 

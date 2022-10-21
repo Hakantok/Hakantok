@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Hakan</h1>
-<h3 align="center">Computer Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E9FD0&width=435&lines=Hi+%F0%9F%91%8B%2C+welcome+to+my+Github+Profile;I'm+a+Computer+Engineer)](https://git.io/typing-svg)
 <br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
